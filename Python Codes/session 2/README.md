@@ -1,4 +1,4 @@
-# Python Basics
+# Introduction to Numpy and Pandas Libraries
 
 In this session, we will introduce Numpy and briefly talk about Pandas libraries.
 
@@ -22,4 +22,4 @@ You can use this repository to learn about the Machine Learning. Simply go throu
 If you would like to contribute to this repository, feel free to fork it and submit a pull request with your changes.
 
 ## License
-This project is licensed under the IUST License.
+This project is licensed under the MIT License.

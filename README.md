@@ -32,4 +32,4 @@ You can use this repository to learn about machine learning algorithms and their
 If you would like to contribute to this repository, feel free to fork it and submit a pull request with your changes. You can add new algorithms, improve existing code, or add more detailed explanations to the code.
 
 ## License
-This project is licensed under the IUST License.
+This project is licensed under the MIT License.

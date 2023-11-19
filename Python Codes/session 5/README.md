@@ -1,14 +1,12 @@
-# Univariant Linear Regression
+# Multi-variable Linear Regression
 
-In this session, we will develope univariant linear regression machine learning algorithm.
+In this session, we will train a multi-variable linear regression model. Then, we will emphasize the importance of the learning rate tuning. After that, we will introduce feature scaling and we will show that without proper feature scaling we will get some convergence issues. At the end, we will introduce scikit-learn library that is a popular data science and mahcine learning library to train our multi-variable model once more.
 
 ## Contents
-- Loading data
-- Plotting data
-- Cost function
-- Gradient calculating
-- Gradient descent algorithm
-- Train a regression model
+- Multi-variable linear regression
+- Tuning learning rate
+- Feature scaling
+- Introduction to scikit-learn Python library
 
 ## Getting Started
 To get started, make sure you have Python installed on your computer. You can download it from the [official Python website](https://www.python.org/).
